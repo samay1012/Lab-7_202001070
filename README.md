@@ -1,5 +1,5 @@
 # Lab7 
-# Name - Samay Deepak Adhar
+# Name - Samay Deepak Ashar
 # ID - 202001070
 
 # Section A
